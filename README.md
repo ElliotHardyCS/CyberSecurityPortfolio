@@ -3,6 +3,16 @@
 This repository highlights my skills, projects, and accomplishments in the field of cybersecurity with a specialization in threat intelligence, cybersecurity analysis, and programming.  
 This portfolio demonstrates my ability to analyze complex threats, utilize cutting-edge tools, and solve real-world cybersecurity challenges. From threat reports and OSINT investigations to malware analysis and automation scripts, my work showcases both technical expertise and critical thinking.
 
+
+---
+
+## How to Use This Portfolio:
+- **Explore My Projects**  
+  Each folder represents a project or skillset and contains:
+    - README.md files that explain the purpose, tools, and outcomes of the project.  
+    - Supporting files such as scripts, reports, or screenshots.  
+
+
 ---
 
 ## Contents:
@@ -62,20 +72,6 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 - **[Cyber Kill Chain](./8.%20Frameworks/cyber-kill-chain/)**: Identifying and disrupting attack phases.  
 - **[Diamond Model](./8.%20Frameworks/diamond-model/)**: Intrusion and adversary analysis.  
 
----
-
-## How to Use This Portfolio:
-- **Explore My Projects**  
-  Each folder represents a project or skillset and contains:
-    - README.md files that explain the purpose, tools, and outcomes of the project.  
-    - Supporting files such as scripts, reports, or screenshots.  
-
----
-
-## Contact Me:
-- **Email**: [Email me](mailto:elliothardywork@gmail.com?subject=CyberSecurityPortfolio)  
-- **LinkedIn**: [Find me on LinkedIn](https://www.linkedin.com/in/elliot-anthony-hardy/)  
-- **Website Portfolio**: [View my portfolio](https://portfolio.elliothardy.com)  
 
 ---
 
@@ -87,7 +83,16 @@ Currently, I work as a Server at Miller and Carter, where I’ve developed skill
 
 In addition to my studies, I Volunteered as a Student Teacher at a local dance school, where I ensured the safety and performance of younger dancers. I am also pursuing my RAD Grade 7, and have recently completed my RAD Repertoire qualification in ballet and scored a Merit in my grade 6 ballet exam and have achieved Grade 5 in violin.  
 
+
 ---
 
 ## Acknowledgements:
 I would like to thank the University of Birmingham for providing a strong foundation in computer science and cybersecurity. Additionally, platforms like Hack The Box and ImmersiveLabs have been instrumental in gaining hands-on experience and honing my technical skills.
+
+
+---
+
+## Contact Me:
+- **Email**: [Email me](mailto:elliothardywork@gmail.com?subject=CyberSecurityPortfolio)  
+- **LinkedIn**: [Find me on LinkedIn](https://www.linkedin.com/in/elliot-anthony-hardy/)  
+- **Website Portfolio**: [View my portfolio](https://portfolio.elliothardy.com)
