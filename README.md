@@ -5,29 +5,29 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 
 
 ## Contents:
-1. **Threat Reports:**
+1. **[Threat Reports](./Threat Reports/):**
     - Comprehensive and professional analyses of cybersecurity threats, including malware behavior, threat actor profiling, and attack techniques.  
     - Example reports leverage frameworks like MITRE ATT&CK, Cyber Kill Chain, and the Diamond Model of Intrusion Analysis to model and describe attack patterns effectively.  
     - These reports showcase my ability to synthesize complex information into actionable intelligence, a key skill in threat intelligence roles.  
 
-2. **Malware Analysis:**
+2. **[Malware Analysis](./Malware Analysis/):**
     - Detailed reverse engineering of malware using tools like Ghidra, IDA Pro, and Cuckoo Sandbox.  
     - Projects include static and dynamic analysis of malware to uncover behavior, identify Indicators of Compromise (IoCs), and recommend mitigation strategies.  
     - Emphasizes my hands-on expertise in understanding and combating malicious code.  
 
-3. **OSINT Investigations:**
+3. **[OSINT Investigations](./OSINT Investigations/):**
     - Real-world scenarios showcasing ethical Open Source Intelligence (OSINT) investigations using tools like Maltego, Shodan, and Recon-ng.  
     - Projects simulate tracking threat actors, analyzing publicly available data, and identifying security vulnerabilities.  
     - Demonstrates proficiency in gathering and analyzing intelligence while adhering to ethical guidelines.  
 
-4. **Automation Scripts:**
+4. **[Automation Scripts](./Automation Scripts/):**
     - Python and Java scripts automating cybersecurity tasks, including:  
         - Log parsing and threat detection.  
         - Threat feed integration and alert correlation.  
         - Phishing email detection and analysis.  
     - These projects highlight my ability to streamline and enhance cybersecurity operations with programming.  
 
-5. **Capture the Flag (CTF) Solutions:**
+5. **[Capture The Flag (CTS) Solutions](./Capture The Flag (CTS) Solutions/):**
     - Solutions to CTF challenges from platforms like Hack The Box and TryHackMe.  
     - Covers challenges in cryptography, reverse engineering, forensics, and network analysis.  
     - Demonstrates problem-solving skills, creativity, and technical proficiency.  
@@ -42,16 +42,16 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 - **OSINT**: Ethical data collection and intelligence mapping.  
 
 ### Tools Proficiency:
-- **Splunk**: SIEM setup and log analysis.  
-- **Wireshark**: Packet capture and network analysis.  
-- **Ghidra**: Malware reverse engineering.  
-- **Maltego**: OSINT investigations.  
-- **Nmap**: Network scanning and vulnerability detection.  
+- **[Splunk](./tools/splunk/)**: SIEM setup and log analysis.  
+- **[Wireshark](./tools/wireshark/)**: Packet capture and network analysis.  
+- **[Ghidra](./tools/ghidra/)**: Malware reverse engineering.  
+- **[Maltego](./tools/maltego/)**: OSINT investigations.  
+- **[Nmap](./tools/nmap/)**: Network scanning and vulnerability detection.  
 
 ### Frameworks:
-- **MITRE ATT&CK**: Threat actor profiling and attack technique mapping.  
-- **Cyber Kill Chain**: Identifying and disrupting attack phases.  
-- **Diamond Model**: Intrusion and adversary analysis.  
+- **[MITRE ATT&CK](./frameworks/mitre-attck/)**: Threat actor profiling and attack technique mapping.  
+- **[Cyber Kill Chain](./frameworks/cyber-kill-chain/)**: Identifying and disrupting attack phases.  
+- **[Diamond Model](./frameworks/diamond-model/)**: Intrusion and adversary analysis.  
 
 
 ## How to Use This Portfolio:
