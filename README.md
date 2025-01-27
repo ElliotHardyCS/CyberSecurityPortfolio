@@ -75,7 +75,7 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 ## Contact Me:
 - **Email**: [Email me](mailto:elliothardywork@gmail.com?subject=CyberSecurityPortfolio)  
 - **LinkedIn**: [Find me on LinkedIn](https://www.linkedin.com/in/elliot-anthony-hardy/)  
-- **Portfolio**: [View my portfolio](https://portfolio.elliothardy.com)  
+- **Website Portfolio**: [View my portfolio](https://portfolio.elliothardy.com)  
 
 ---
 
