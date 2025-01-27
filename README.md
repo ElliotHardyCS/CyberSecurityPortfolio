@@ -33,6 +33,13 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
     - Covers challenges in cryptography, reverse engineering, forensics, and network analysis.  
     - Demonstrates problem-solving skills, creativity, and technical proficiency.  
 
+6. **[Automation Scripts](./6.%20Blog%20Posts/):**
+
+7. **[Tools](./7.%20Tools/):**
+
+8. **[Frameworks](./8.%20Frameworks/):**
+
+
 ---
 
 ## Skills and Tools:
@@ -44,16 +51,16 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 - **OSINT**: Ethical data collection and intelligence mapping.  
 
 ### Tools Proficiency:
-- **[Splunk](./tools/splunk/)**: SIEM setup and log analysis.  
-- **[Wireshark](./tools/wireshark/)**: Packet capture and network analysis.  
-- **[Ghidra](./tools/ghidra/)**: Malware reverse engineering.  
-- **[Maltego](./tools/maltego/)**: OSINT investigations.  
-- **[Nmap](./tools/nmap/)**: Network scanning and vulnerability detection.  
+- **[Splunk](./7.%20Tools/splunk/)**: SIEM setup and log analysis.  
+- **[Wireshark](./7.%20Tools/wireshark/)**: Packet capture and network analysis.  
+- **[Ghidra](./7.%20Tools/ghidra/)**: Malware reverse engineering.  
+- **[Maltego](./7.%20Tools/maltego/)**: OSINT investigations.  
+- **[Nmap](./7.%20Tools/nmap/)**: Network scanning and vulnerability detection.  
 
 ### Frameworks:
-- **[MITRE ATT&CK](./frameworks/mitre-attck/)**: Threat actor profiling and attack technique mapping.  
-- **[Cyber Kill Chain](./frameworks/cyber-kill-chain/)**: Identifying and disrupting attack phases.  
-- **[Diamond Model](./frameworks/diamond-model/)**: Intrusion and adversary analysis.  
+- **[MITRE ATT&CK](./8.%20Frameworks/mitre-attck/)**: Threat actor profiling and attack technique mapping.  
+- **[Cyber Kill Chain](./8.%20Frameworks/cyber-kill-chain/)**: Identifying and disrupting attack phases.  
+- **[Diamond Model](./8.%20Frameworks/diamond-model/)**: Intrusion and adversary analysis.  
 
 ---
 
