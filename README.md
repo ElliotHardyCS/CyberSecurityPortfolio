@@ -76,7 +76,7 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 ---
 
 ## About Me:
-I am a first-year Computer Science student at the University of Birmingham. I completed my A-levels in Maths, Physics, Computer Science (grades A, A, A), and an EPQ (grade B) at Bishop Stopford School. During my A-levels, I was awarded a scholarship to join the "Future Engineering Leaders" course by Impetus Education Ltd. I also led my school's Sixth Form National Cipher Challenge team and competed in the Cyber Centurion competition run by the US Air Force Association.  
+I am a first-year Computer Science student at the University of Birmingham. I completed my A-levels in Maths, Physics, Computer Science (grades A, A, A), and an EPQ (grade B) at Bishop Stopford School. During my A-levels, I was awarded a scholarship to join the "Future Engineering Leaders" course by Impetus Education Ltd. I also led my school's Sixth Form National Cipher Challenge team and competed in the Cyber Centurion competition run by Northrop Grumman UK.  
 
 Before A-levels, I earned 9 GCSEs from The Latimer Arts College in 2022.  
 Currently, I work as a Server at Miller and Carter, where I’ve developed skills in teamwork, communication, and customer service. Previously, I was employed as a Theatre Technician, responsible for the lighting production of various shows, which honed my ability to perform under pressure.  
