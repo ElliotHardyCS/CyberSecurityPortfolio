@@ -1,4 +1,4 @@
-![SolarWinds](images/SolarWinds.png)
+![SolarWinds](images/SolarWinds.webp)
 
 In late 2020 one of the most sophisticated cyberattacks in history occured, The SolarWinds supply chain attack. This attack compromised thousands of organisations’ systems, including government agencies, big Fortune 500 companies, and even cyber security firms.
 
