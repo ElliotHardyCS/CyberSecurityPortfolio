@@ -1,3 +1,5 @@
+![SolarWinds](images/SolarWinds.png)
+
 In late 2020 one of the most sophisticated cyberattacks in history occured, The SolarWinds supply chain attack. This attack compromised thousands of organisations’ systems, including government agencies, big Fortune 500 companies, and even cyber security firms.
 
 From the perspective of a threat intelligence analyst this attack teaches a vulnerble lesson in nation state cyber operations, supply chain security, and threat detection techniques. In this blog post I will discuss how the attack occurs, the key indicators of compromise (IoC), and what we can learn from this.
