@@ -23,7 +23,7 @@ Highly targeted organizations such as U.S. government agencies, Microsoft, and t
 FireEye discovered the breach while internally investigating a security incident.
 Governments and private security firms alike began dismantling the attack infrastructure and issuing patches to those affected. In response to the attacks the US sanctioned russia
 
-![SolarWinds](images/)
+![SolarWinds](images/solarigate-attack-flow-microsoft.jpg)
 
 **-The Indicators of Compromise (IoCs)**  
 Threat intelligence teams quickly identified several IoCs to help organizations detect and mitigate the attack. The key IoCs included:
