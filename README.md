@@ -43,7 +43,7 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
     - Covers challenges in cryptography, reverse engineering, forensics, and network analysis.  
     - Demonstrates problem-solving skills, creativity, and technical proficiency.  
 
-6. **[Automation Scripts](./6.%20Blog%20Posts/):**
+6. **[Blog Posts](./6.%20Blog%20Posts/):**
 
 8. **[Immersive Labs](./7.%20Immersive%20Labs/):**
 
