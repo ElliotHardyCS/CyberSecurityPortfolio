@@ -45,9 +45,11 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 
 6. **[Automation Scripts](./6.%20Blog%20Posts/):**
 
-7. **[Tools](./7.%20Tools/):**
+8. **[Immersive Labs](./7.%20Immersive%20Labs/):**
 
-8. **[Frameworks](./8.%20Frameworks/):**
+8. **[Tools](./8.%20Tools/):**
+
+9. **[Frameworks](./9.%20Frameworks/):**
 
 
 ---
