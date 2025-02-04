@@ -101,4 +101,4 @@ I would like to thank the University of Birmingham for providing a strong founda
 ## Contact Me:
 - **Email**: [Email me](mailto:elliothardywork@gmail.com?subject=CyberSecurityPortfolio)  
 - **LinkedIn**: [Find me on LinkedIn](https://www.linkedin.com/in/elliot-anthony-hardy/)  
-- **Website Portfolio**: [View my portfolio](https://portfolio.elliothardy.com)
+- **Website Portfolio**: [View my personal portfolio website](http://portfolio.elliothardy.com/)
