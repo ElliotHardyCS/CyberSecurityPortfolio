@@ -39,17 +39,21 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
     - These projects highlight my ability to streamline and enhance cybersecurity operations with programming.  
 
 5. **[Capture The Flag (CTS) Solutions](./5.%20Capture%20The%20Flag%20(CTS)%20Solutions/):**
-    - Solutions to CTF challenges from platforms like Hack The Box and TryHackMe.  
+    - Solutions to CTF challenges from platforms like Hack The Box.  
     - Covers challenges in cryptography, reverse engineering, forensics, and network analysis.  
     - Demonstrates problem-solving skills, creativity, and technical proficiency.  
 
 6. **[Blog Posts](./6.%20Blog%20Posts/):**
+    - Blog posts regarding past, present, or future topics in the Cyber Security world.
 
 8. **[Immersive Labs](./7.%20Immersive%20Labs/):**
+    - Skills and certifications gained using the Immersive Labs Cyber Security Training platform.
 
-8. **[Tools](./8.%20Tools/):**
+8. **[University Projects](./8.%20University%20Projects/):**
+    - Projects that I have completed as coursework during my time at the University of Birmingham.
 
-9. **[Frameworks](./9.%20Frameworks/):**
+10. **[Frameworks and Tools](./9.%20Frameworks%20and%20Tools/):**
+     - Demonstrations of my profficiency of using many crucuial and important Cyber Security tools and frameworks.
 
 
 ---
@@ -63,16 +67,16 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 - **OSINT**: Ethical data collection and intelligence mapping.  
 
 ### Tools Proficiency:
-- **[Splunk](./7.%20Tools/splunk/)**: SIEM setup and log analysis.  
-- **[Wireshark](./7.%20Tools/wireshark/)**: Packet capture and network analysis.  
-- **[Ghidra](./7.%20Tools/ghidra/)**: Malware reverse engineering.  
-- **[Maltego](./7.%20Tools/maltego/)**: OSINT investigations.  
-- **[Nmap](./7.%20Tools/nmap/)**: Network scanning and vulnerability detection.  
+- **[Splunk](./9.%20Frameworks%20and%20Tools/splunk/)**: SIEM setup and log analysis.  
+- **[Wireshark](./9.%20Frameworks%20and%20Tools/wireshark/)**: Packet capture and network analysis.  
+- **[Ghidra](./9.%20Frameworks%20and%20Tools/ghidra/)**: Malware reverse engineering.  
+- **[Maltego](./9.%20Frameworks%20and%20Tools/maltego/)**: OSINT investigations.  
+- **[Nmap](./9.%20Frameworks%20and%20Tools/nmap/)**: Network scanning and vulnerability detection.  
 
 ### Frameworks:
-- **[MITRE ATT&CK](./8.%20Frameworks/mitre-attck/)**: Threat actor profiling and attack technique mapping.  
-- **[Cyber Kill Chain](./8.%20Frameworks/cyber-kill-chain/)**: Identifying and disrupting attack phases.  
-- **[Diamond Model](./8.%20Frameworks/diamond-model/)**: Intrusion and adversary analysis.  
+- **[MITRE ATT&CK](./9.%20Frameworks%20and%20Tools/mitre-attck/)**: Threat actor profiling and attack technique mapping.  
+- **[Cyber Kill Chain](./9.%20Frameworks%20and%20Tools/cyber-kill-chain/)**: Identifying and disrupting attack phases.  
+- **[Diamond Model](./9.%20Frameworks%20and%20Tools/diamond-model/)**: Intrusion and adversary analysis.  
 
 
 ---
