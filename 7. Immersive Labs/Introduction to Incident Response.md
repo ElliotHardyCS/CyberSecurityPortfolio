@@ -8,7 +8,7 @@ Here is the badge I recieved for finishing the module and also the link to view 
 
 **- Badge**
 
-![Introduction to Incident Response](Images/Introduction_to_Incident_Response.jpg)  
+![Introduction to Incident Response](Images/Introduction_To_Incident_Response.jpg)  
 
 
 **- Link**  
