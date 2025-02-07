@@ -6,8 +6,7 @@ Here is the badge I recieved for finishing the module and also the link to view 
 
 **- Badge**
 
-![Hashing and Encoding](Images/Encoding.jpg)
-
+![Hashing and Encoding](Images/Encoding.jpg)  
 
 **- Link**
 
