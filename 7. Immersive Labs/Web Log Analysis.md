@@ -7,10 +7,10 @@ Here is the badge I recieved for finishing the module and also the link to view 
 
 **- Badge**
 
-![Web Log Analysis](Images/Introduction_To_Networking.jpg)  
+![Web Log Analysis](Images/Web_Log_Analysis.jpg)  
 
 
 **- Link**  
-[Web Log Analysis](https://api.immersivelabs.online/share/achievements/29a5a296dbc04d86e65dcaac9a98e8f1)
+[Web Log Analysis](https://api.immersivelabs.online/share/achievements/919d45a306679de934d29627cdb73008)
 
 
