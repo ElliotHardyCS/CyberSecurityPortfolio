@@ -1,7 +1,7 @@
 **- Introduction to Networking**
 --- 
 
-This series introduced me to the concepts of incident response – covering the IR process in detail, in accordance with the guidance from the National Institute of Standards and Technology (NIST). It also explains how to validate SIEM results and will helped me with malicious document analysis.
+This series focused on core networking concepts and the basics. I was introduced to the basics of networking connectivity, network topologies and general networking concepts including IP addresses and DNS. This alongside the knowledge gained during my A-Level computer science qualification has given me a strong networking foundation.
 
 Here is the badge I recieved for finishing the module and also the link to view my completion.
 
