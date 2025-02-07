@@ -1,8 +1,7 @@
 **- Introduction to Incident Response**
 --- 
 
-In this skill collection, I learnt about the various ways of converting data into different formats to facilitate the storage or the secure transfer of information.
-
+This series introduced me to the concepts of incident response – covering the IR process in detail, in accordance with the guidance from the National Institute of Standards and Technology (NIST). It also explains how to validate SIEM results and will helped me with malicious document analysis.
 
 Here is the badge I recieved for finishing the module and also the link to view my completion.
 
