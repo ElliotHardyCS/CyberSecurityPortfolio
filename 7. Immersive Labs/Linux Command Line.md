@@ -1,7 +1,7 @@
 **- Linux Command Line**
 --- 
 
-Learn how to use the Linux Command Line Interface (CLI) and how it can be used to perform different tasks. The labs in this skills series range from navigating around a file structure to combining multiple commands to achieve a specific goal.
+I Learnt how to use the Linux Command Line Interface (CLI) and how it can be used to perform different tasks. The labs in this skills series range from navigating around a file structure to combining multiple commands to achieve a specific goal.
 
 
 Here is the badge I recieved for finishing the module and also the link to view my completion.
