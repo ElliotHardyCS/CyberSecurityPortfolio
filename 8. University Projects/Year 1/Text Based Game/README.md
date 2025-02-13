@@ -11,6 +11,8 @@ The game must also provide a score based on puzzles solved and rooms visited the
 
 -And finally the game must display a text-based map of the world as the user explores the world.
 
+...ADD MORE HERE...
+
 **Minimum Expected Commands**
 ---  
 - move <"direction"> (<"direction"> = north | south | east | west)(Moves player in the specified direction.)  
@@ -108,7 +110,7 @@ The mark I recieved is 93/100 for this project.
 - [Score](./Version%201/Score.java) (The score class stores and calculates the player's score, It includes the starting score, the current score, number of rooms visited, the number of puzzles solved and the score per puzzle.)
 - [Game](./Version%201/Game.java) (The game class runs the main game loop which allows you to play the game and is used to bring together all of the classes.)
 
-- - [View all code here...](./version%202/)  
+- [View all code here...](./version%202/)  
 
 **Submitted Video and github link**
 ---  
