@@ -23,7 +23,7 @@ The game must also provide a score based on puzzles solved and rooms visited the
 - help (Displays a help message / hint.)  
 - quit (Quits the game and displays the score.)
 
-- Must also create additional commands, I chose open door for my extra feature which i discuss later.
+- I Must also create additional commands, I chose open door for my extra feature which I will discuss later.
 
 **Minimum game requirements**
 ---  
@@ -34,6 +34,7 @@ The game must also provide a score based on puzzles solved and rooms visited the
 **Additional features**
 ---  
 - Lockable doors (The entrance to a room is locked unless you have the specific key required. and once the key is obtained the door becomes unlocked and the route is then travelable, which I also included into my additional commands.)
+- Room Questions ().
 
 **Classes Required**
 ---  
@@ -78,8 +79,6 @@ The mark I recieved is 93/100 for this project.
 - combine <"item1"> with <"item 2"> (Checks if your items are combinable and if so combines them into a new singular item removing item1/2 from your inventory and adding the new combined item back.)   
 - quit (Quits the game and displays the score and map.)  
 
-- Must also create additional commands, I chose open door for my extra feature which i discuss later.
-
 **Minimum game requirements**
 ---  
 - At least 10 unique rooms.    
@@ -89,7 +88,13 @@ The mark I recieved is 93/100 for this project.
 
 **Additional features**
 ---  
-- Lockable doors (The entrance to a room is locked unless you have the specific key required. and once the key is obtained the door becomes unlocked and the route is then travelable, which I also included into my additional commands.)
+- Hidden rooms ()  
+- Room Questions ()  
+
+**Score/Map**
+  - This version Score and Map were labelled as compulsory extra features as we weere guven free reign over their design and build.  
+  - Score ()  
+  - Map ()  
 
 **Classes Required**
 ---  
@@ -103,7 +108,7 @@ The mark I recieved is 93/100 for this project.
 **Submitted Video and github link**
 ---  
 [Github Project](https://git.cs.bham.ac.uk/oop-24-25-2/exh444)  
-[Version 1 Video]()
+[Version 2 Video](https://youtu.be/fpqI0m9TT8E?si=-DEkj-MkbVfnxlzh)
 
 **Assesement of My Project**
 ---  
