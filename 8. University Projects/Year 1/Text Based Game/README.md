@@ -35,7 +35,7 @@ And finally the game must display a text-based map of the world as the user expl
 
 **Additional features**
 ---
--Lockable doors (The entrance to a room is locked unless you have the specific key required. and once the key is obtained the door becomes unlocked and the route is then travelable, which I also included into my additional commands.)
+- Lockable doors (The entrance to a room is locked unless you have the specific key required. and once the key is obtained the door becomes unlocked and the route is then travelable, which I also included into my additional commands.)
 
 **Classes Required**
 ---
@@ -48,5 +48,5 @@ And finally the game must display a text-based map of the world as the user expl
 
 **Submitted Video and github link**
 ---
-[Github Project]()
+[Github Project](https://git.cs.bham.ac.uk/oop-24-25/exh444)  
 ()[./video/version1_video.mp4]
