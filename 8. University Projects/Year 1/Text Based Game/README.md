@@ -13,10 +13,10 @@ The game must also provide a score based on puzzles solved and rooms visited the
 
 **Minimum Expected Commands**
 ---  
-- move <direction> (<direction> = north | south | east | west)(Moves player in the specified direction.)  
+- move <"direction"> (<"direction"> = north | south | east | west)(Moves player in the specified direction.)  
 - look (Displays a description of the current room.)  
-- look <feature> (Displays a more detailed description of an feature in the room.)  
-- look <item> (Displays a description of the specified item.)  
+- look <"feature"> (Displays a more detailed description of an feature in the room.)  
+- look <"item"> (Displays a description of the specified item.)  
 - inventory (Displays the inventory of the player.)  
 - score (Displays the users current score.)  
 - map (Displays a text-based map of the currently explored world.)  
@@ -68,14 +68,14 @@ The mark I recieved is 93/100 for this project.
 
 **Minimum Expected Commands**
 ---  
-- move <exit name> (I chose to keep names for the exits NSEW <exit name> = north | south | east | west)(Moves player in the specified direction.)    
-- Look <room | exit | features> | <item name> | <equipment name> | <feature name> (Displays a description of the current room, exits in the current room, the specified item, equipment, exit, or feature.)    
-- get <item name | equipment name> (Picks up the specified item if you are in the same room as it and adds it to the players inventory.)    
-- drop <item name | equipment name> (Drops the item into the current room and removes the item from inventory.)    
-- use <equipment name> on/with <feature> (Uses an item in your inventory on its own or to interact with the specified feature.)      
-- status <inventory | player | item name | equipment name | map | score> (Ouputs the current status of the specified parameter in a text based format, this is how you view your map, score and inventory unlike version 1.)    
-- help | help <topic> (Displays a general help message | Displays a help message for your specified topic.)  
-- combine <item1> with <item 2> (Checks if your items are combinable and if so combines them into a new singular item removing item1/2 from your inventory and adding the new combined item back.)   
+- move <"exit name"> (I chose to keep names for the exits NSEW <"exit name"> = north | south | east | west)(Moves player in the specified direction.)    
+- Look <"room | exit | features"> | <"item name"> | <"equipment name"> | <"feature name"> (Displays a description of the current room, exits in the current room, the specified item, equipment, exit, or feature.)    
+- get <"item name | equipment name"> (Picks up the specified item if you are in the same room as it and adds it to the players inventory.)    
+- drop <"item name | equipment name"> (Drops the item into the current room and removes the item from inventory.)    
+- use <"equipment name"> on/with <"feature"> (Uses an item in your inventory on its own or to interact with the specified feature.)      
+- status <"inventory | player | item name | equipment name | map | score"> (Ouputs the current status of the specified parameter in a text based format, this is how you view your map, score and inventory unlike version 1.)    
+- help | help <"topic"> (Displays a general help message | Displays a help message for your specified topic.)  
+- combine <"item1"> with <"item 2"> (Checks if your items are combinable and if so combines them into a new singular item removing item1/2 from your inventory and adding the new combined item back.)   
 - quit (Quits the game and displays the score and map.)  
 
 - Must also create additional commands, I chose open door for my extra feature which i discuss later.
