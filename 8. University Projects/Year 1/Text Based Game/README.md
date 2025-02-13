@@ -139,6 +139,8 @@ The mark I recieved is 93/100 for this project.
 **Game State File Parser**
 - [GameStateFileParser](./version%202/text%20file%20parser/GameStateFileParser.java) ()  
 
+**View the Java Doc specification**
+- [Link to Java Doc](./version%202/index.html)
 - [View all code here...](./version%202/)  
 
 **Submitted Video and github link**
