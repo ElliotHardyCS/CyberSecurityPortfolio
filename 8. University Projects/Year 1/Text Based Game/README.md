@@ -14,6 +14,7 @@ The game must also provide a score based on puzzles solved and rooms visited the
 And finally the game must display a text-based map of the world as the user explores the world.
 
 **Minimum Expected Commands**
+-
 - move <direction> (<direction> = north | south | east | west)(Moves player in the specified direction.)  
 - look (Displays a description of the current room.)  
 - look <feature> (Displays a more detailed description of an feature in the room.)  
