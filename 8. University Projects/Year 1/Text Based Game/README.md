@@ -45,6 +45,8 @@ The game must also provide a score based on puzzles solved and rooms visited the
 - [Score](./Version%201/Score.java) (The score class stores and calculates the player's score, It includes the starting score, the current score, number of rooms visited, the number of puzzles solved and the score per puzzle.)
 - [Game](./Version%201/Game.java) (The game class runs the main game loop which allows you to play the game and is used to bring together all of the classes.)
 
+- [View all code here...](./Version%201/)
+
 **Submitted Video and github link**
 ---  
 [Github Project](https://git.cs.bham.ac.uk/oop-24-25/exh444)  
@@ -57,13 +59,14 @@ Feedback from assessor: "Good game, well-structured code and some nice additiona
 The mark I recieved is 93/100 for this project.  
 
 ---  
-**Version 2**
+**Version 2** //
 ---  
 
 -In version two I was asked to update my Zork style text based game from version 1. To be able to complete version 2 I was required to start from scratch due to the redesign of the game structure, I was allowed to resue my story line but I chose not to and created a new game story with new rooms, items, and features.
 
 -The game continues to be played by entering various commands e.g "move south", "look", "get key", "use key on chest"), to which my game should return a text based output like "You pick up the rusty key".
 
+-combine, new help, get drop use, containers, equipment, PARSER (GAME AND TEXT FILE) PARA EACH. TEXT FILE ASWELL
 ....
 
 
@@ -86,7 +89,7 @@ The mark I recieved is 93/100 for this project.
 - At least 4 items.
 - At least 2 pieces of equipment.
 
-**Additional features**
+**Additional features** //
 ---  
 - Hidden rooms ()  
 - Room Questions ()  
@@ -96,7 +99,7 @@ The mark I recieved is 93/100 for this project.
   - Score ()  
   - Map ()  
 
-**Classes Required**
+**Classes Required** //
 ---  
 - [Position](./Version%201/Position.java) (The position class stores a position in terms of x and y.)  
 - [Room](./Version%201/Room.java) (The room class stores information about a room, including a name, description, a symbol, and a position.)  
@@ -104,6 +107,8 @@ The mark I recieved is 93/100 for this project.
 - [Inventory](./Version%201/Inventory.java) (The Inventory class stores the player's inventory and is made using an array, It includes the maximum number of items a player can store, current number of items stored.)
 - [Score](./Version%201/Score.java) (The score class stores and calculates the player's score, It includes the starting score, the current score, number of rooms visited, the number of puzzles solved and the score per puzzle.)
 - [Game](./Version%201/Game.java) (The game class runs the main game loop which allows you to play the game and is used to bring together all of the classes.)
+
+- - [View all code here...](./version%202/)  
 
 **Submitted Video and github link**
 ---  
