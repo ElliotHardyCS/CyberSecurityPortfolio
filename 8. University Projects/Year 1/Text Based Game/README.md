@@ -49,4 +49,4 @@ And finally the game must display a text-based map of the world as the user expl
 **Submitted Video and github link**
 ---
 [Github Project](https://git.cs.bham.ac.uk/oop-24-25/exh444)  
-<iframe width="560" height="315" src="https://youtu.be/IiBGIig8pdA?si=kOlHR6YKxWycIPDh" frameborder="0" allowfullscreen></iframe>
+[![Version 1]](https://youtu.be/IiBGIig8pdA?si=kOlHR6YKxWycIPDh)
