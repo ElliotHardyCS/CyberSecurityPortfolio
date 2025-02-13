@@ -37,7 +37,7 @@ And finally the game must display a text-based map of the world as the user expl
 **Classes Required**
 - (Position)[] (The position class stores a position in terms of x and y.)  
 - (Room)[] (The room class stores information about a room, including a name, description, a symbol, and a position.)  
-- (Map)[./version1] (The Map class stores information about the game map, including the map array, a width and height, and the value used for empty map areas for which I chose "." .)  
+- (Map)[./Version%201/Map.java] (The Map class stores information about the game map, including the map array, a width and height, and the value used for empty map areas for which I chose "." .)  
 - (Inventory)[] (The Inventory class stores the player's inventory and is made using an array, It includes the maximum number of items a player can store, current number of items stored.)
 - (Score)[] (The score class stores and calculates the player's score, It includes the starting score, the current score, number of rooms visited, the number of puzzles solved and the score per puzzle.)
 - (Game)[] (The game class runs the main game loop which allows you to play the game and is used to bring together all of the classes.)
