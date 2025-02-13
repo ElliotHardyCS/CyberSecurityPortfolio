@@ -1,6 +1,6 @@
 **Text Based Game Explained, V1 and V2**
 ---  
-**Version 1**
+**Version 1** //
 ---  
 -In version one I was asked to create a basic text-based game in the style of Zork.  
 The game is designed to be played by entering various commands e.g "move south", "look", "get key"), to which my game should return a text based output like "You pick up the rusty key".  
@@ -33,7 +33,7 @@ The game must also provide a score based on puzzles solved and rooms visited the
 - At least 2 puzzles.  
 - At least 4 items.  
 
-**Additional features**
+**Additional features** //
 ---  
 - Lockable doors (The entrance to a room is locked unless you have the specific key required. and once the key is obtained the door becomes unlocked and the route is then travelable, which I also included into my additional commands.)
 - Room Questions ().
@@ -98,17 +98,46 @@ The mark I recieved is 93/100 for this project.
 
 **Score/Map**
   - This version Score and Map were labelled as compulsory extra features as we weere guven free reign over their design and build.  
-  - Score ()  
-  - Map ()  
+  - Score (Used through the status command I used the same formula to calculate the score as version 1 .)  
+  - Map (Used through the status command .)  
 
-**Classes Required** //
+**Classes Required** 
 ---  
-- [Position](./Version%201/Position.java) (The position class stores a position in terms of x and y.)  
-- [Room](./Version%201/Room.java) (The room class stores information about a room, including a name, description, a symbol, and a position.)  
-- [Map](./Version%201/Map.java) (The Map class stores information about the game map, including the map array, a width and height, and the value used for empty map areas for which I chose "." .)  
-- [Inventory](./Version%201/Inventory.java) (The Inventory class stores the player's inventory and is made using an array, It includes the maximum number of items a player can store, current number of items stored.)
-- [Score](./Version%201/Score.java) (The score class stores and calculates the player's score, It includes the starting score, the current score, number of rooms visited, the number of puzzles solved and the score per puzzle.)
-- [Game](./Version%201/Game.java) (The game class runs the main game loop which allows you to play the game and is used to bring together all of the classes.)
+**Commands**
+- [Command (abstract)](./version%202/Command.java) ()
+- [Drop](./version%202/Drop.java) ()
+- [Get](./version%202/Get.java) ()
+- [Help](./version%202/Help.java) ()
+- [Look](./version%202/Look.java) ()
+- [Move](./version%202/Move.java) ()
+- [Quit](./version%202/Quit.java) ()
+- [Status](./version%202/Status.java) ()
+- [Use](./version%202/Use.java) ()
+- [CommandErrorException](./version%202/CommandErrorException.java) ()
+- [CommandType (enum)](./version%202/CommandType.java) ()
+
+**GameObjects**
+- [GameObject (abstract)](./version%202/GameObject.java) ()
+- [Container (extends Feature)](./version%202/Container.java) ()
+- [Equipment (implements Usable)](./version%202/Equipment.java) ()
+- [Exit](./version%202/Exit.java) ()
+- [Feature](./version%202/Feature.java) ()
+- [Item](./version%202/Item.java) ()
+- [GameState](./version%202/GameState.java) ()
+- [Player](./version%202/Player.java) ()
+- [Room](./version%202/Room.java) ()
+- [Map](./version%202/Map.java) ()
+- [Usable (interface)](./version%202/Usable.java) ()  
+- [UseInformation](./version%202/UseInformation.java) ()   
+
+**Command Parser**
+- [Parser](./version%202/Parser.java) ()
+- [Token](./version%202/Token.java) ()
+- [TokenType](./version%202/TokenType.java) ()
+- [Tokeniser](./version%202/Tokeniser.java) ()  
+
+**Game State File Parser**
+- [GameStateFileParser](./version%202/GameStateFileParser.java) ()  
 
 - [View all code here...](./version%202/)  
 
