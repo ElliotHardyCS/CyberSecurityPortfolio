@@ -1,4 +1,4 @@
-**Text Based Game**
+**Text Based Game Explained, V1 and V2**
 ---  
 **Version 1**
 ---  
