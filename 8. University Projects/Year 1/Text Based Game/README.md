@@ -26,7 +26,7 @@ Additional Feedback: "Sufficiently complicated additional features implemented."
 New Feature Feedback: "Score code is complex and well integrated, Map code is complex and well integrated, Combine code works and is well implemented and uses the existing built code structure."  
 The mark I recieved is 93.4/100 for this project.  
 
-
+---
 **Minimum Expected Commands**
 ---  
 - move <"direction"> (<"direction"> = north | south | east | west)(Moves player in the specified direction.)  
