@@ -72,6 +72,7 @@ The mark I recieved is 93/100 for this project.
 ....
 
 **Table Comparison**
+---  
 | Version 1 | Version 2 |
 |----------|----------|
 | move <NSEW>   | Move <exit>   |
