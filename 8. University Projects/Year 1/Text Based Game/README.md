@@ -13,19 +13,19 @@ The game must also provide a score based on puzzles solved and rooms visited the
 
 ...ADD MORE HERE...
 
-
+---
 **Assesement of My Project V1**
 ---  
 Feedback from assessor: "Good game, well-structured code and some nice additional features."  
 The mark I recieved is 93/100 for this project.  
-
+---
 **Assesement of My Project V2**
 ---  
 General Feedback: "Excellent Game, with well written code."  
 Additional Feedback: "Sufficiently complicated additional features implemented."  
 New Feature Feedback: "Score code is complex and well integrated, Map code is complex and well integrated, Combine code works and is well implemented and uses the existing built code structure."  
 The mark I recieved is 93.4/100 for this project.  
-
+---
 
 **Minimum Expected Commands**
 ---  
