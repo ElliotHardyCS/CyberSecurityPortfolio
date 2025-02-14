@@ -13,6 +13,20 @@ The game must also provide a score based on puzzles solved and rooms visited the
 
 ...ADD MORE HERE...
 
+
+**Assesement of My Project V1**
+---  
+Feedback from assessor: "Good game, well-structured code and some nice additional features."  
+The mark I recieved is 93/100 for this project.  
+
+**Assesement of My Project V2**
+---  
+General Feedback: "Excellent Game, with well written code."  
+Additional Feedback: "Sufficiently complicated additional features implemented."  
+New Feature Feedback: "Score code is complex and well integrated, Map code is complex and well integrated, Combine code works and is well implemented and uses the existing built code structure."  
+The mark I recieved is 93.4/100 for this project.  
+
+
 **Minimum Expected Commands**
 ---  
 - move <"direction"> (<"direction"> = north | south | east | west)(Moves player in the specified direction.)  
@@ -53,12 +67,6 @@ The game must also provide a score based on puzzles solved and rooms visited the
 ---  
 [Github Project](https://git.cs.bham.ac.uk/oop-24-25/exh444)  
 [Version 1 Video](https://youtu.be/IiBGIig8pdA?si=kOlHR6YKxWycIPDh)
-
-**Assesement of My Project**
----  
-
-Feedback from assessor: "Good game, well-structured code and some nice additional features."  
-The mark I recieved is 93/100 for this project.  
 
 ---  
 **Version 2** //
@@ -164,10 +172,3 @@ The mark I recieved is 93/100 for this project.
 ---  
 [Github Project](https://git.cs.bham.ac.uk/oop-24-25-2/exh444)  
 [Version 2 Video](https://youtu.be/fpqI0m9TT8E?si=-DEkj-MkbVfnxlzh)
-
-**Assesement of My Project**
----  
-General Feedback: "Excellent Game, with well written code."  
-Additional Feedback: "Sufficiently complicated additional features implemented."  
-New Feature Feedback: "Score code is complex and well integrated, Map code is complex and well integrated, Combine code works and is well implemented and uses the existing built code structure."  
-The mark I recieved is 93.4/100 for this project.  
