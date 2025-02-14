@@ -80,7 +80,6 @@ The mark I recieved is 93/100 for this project.
 | map   | status <map>/status   |
 | score   | status <score>/status   |
 | help   | help/help <topic/command>   |
-|----------|----------|
 | New Features   |    |
 | Get   |    |
 | drop   |    |
