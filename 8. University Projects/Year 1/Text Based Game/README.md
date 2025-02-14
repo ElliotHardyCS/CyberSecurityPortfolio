@@ -165,8 +165,6 @@ The mark I recieved is 93.4/100 for this project.
 - [GameStateFileParser](./version%202/text%20file%20parser/GameStateFileParser.java) (Utility class for parsing a game state from a written text file.)
 - [Text File | game File](./version%202/text%20file%20parser/GameStateFileParser.java) (Text file used to create a game state by parsing it through the game state file parser.)
 
-**View the Java Doc specification**
-- [Link to Java Doc](./version%202/index.html)
 - [View all code here...](./version%202/)  
 
 **Submitted Video and github link**
