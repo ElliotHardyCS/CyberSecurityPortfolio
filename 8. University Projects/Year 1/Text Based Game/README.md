@@ -1,6 +1,6 @@
 **Text Based Game Explained, V1 and V2**
 ---  
-<span style="color: red;">**Version 1**</span> //
+<span style="color: red;">Version 1</span> //
 ---  
 -In version one I was asked to create a basic text-based game in the style of Zork.  
 
