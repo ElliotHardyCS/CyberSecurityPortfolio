@@ -33,10 +33,10 @@ The game must also provide a score based on puzzles solved and rooms visited the
 - At least 2 puzzles.  
 - At least 4 items.  
 
-**Additional features** //
+**Additional features**
 ---  
 - Lockable doors (The entrance to a room is locked unless you have the specific key required. and once the key is obtained the door becomes unlocked and the route is then travelable, which I also included into my additional commands.)
-- Room Questions ().
+- Room Questions (In certain rooms across the map once you enter you cannot leave until you have answered the question in the room, in this instance of the game all movement becomes restricted until the question is answered correctly each question is only repeated until correct, if you return to the room later on you are not asked again. this is the original version of this extra feature.)
 
 **Classes Required**
 ---  
@@ -71,6 +71,22 @@ The mark I recieved is 93/100 for this project.
 -combine, new help, get drop use, containers, equipment, PARSER (GAME AND TEXT FILE) PARA EACH. TEXT FILE ASWELL
 ....
 
+**Table Comparison**
+| Version 1 | Version 2 |
+|----------|----------|
+| move <NSEW>   | Move <exit>   |
+| look, look <feature/item>   | look <topic>   |
+| inventory   | status <inventory>/status   |
+| map   | status <map>/status   |
+| score   | status <score>/status   |
+| help   | help/help <topic/command>   |
+|----------|----------|
+| New Features   |    |
+| Get   |    |
+| drop   |    |
+| use   |    |
+| combine   |    |
+
 
 **Minimum Expected Commands**
 ---  
@@ -84,17 +100,17 @@ The mark I recieved is 93/100 for this project.
 - combine <"item1"> with <"item 2"> (Checks if your items are combinable and if so combines them into a new singular item removing item1/2 from your inventory and adding the new combined item back.)   
 - quit (Quits the game and displays the score and map.)  
 
-**Minimum game requirements**
+**Minimum game requirements** 
 ---  
 - At least 10 unique rooms.    
 - At least 2 features/chests/containers.  
 - At least 4 items.
 - At least 2 pieces of equipment.
 
-**Additional features** //
+**Additional features**
 ---  
-- Hidden rooms ()  
-- Room Questions ()  
+- Hidden rooms (The entrance to a room is hidden unless you have the specific key required and have used the wires equipment on the electrical cabinet. and once the key is obtained and the wires have been used a message that the room is accessable appears in the output and is repeated after every command like a pop up on screen.)  
+- Room Questions (In certain rooms across the map once you enter you cannot leave until you have answered the question in the room, in this instance of the game all exits become locked/hidden until the question is answered correctly each question is only repeated until correct, if you return to the room later on you are not asked again. this is a continuation from the original in version 1.)  
 
 **Score/Map**
   - This version Score and Map were labelled as compulsory extra features as we weere guven free reign over their design and build.  
@@ -154,4 +170,4 @@ The mark I recieved is 93/100 for this project.
 General Feedback: "Excellent Game, with well written code."  
 Additional Feedback: "Sufficiently complicated additional features implemented."  
 New Feature Feedback: "Score code is complex and well integrated, Map code is complex and well integrated, Combine code works and is well implemented and uses the existing built code structure."  
-The mark I recieved is 93.4/100 for this project.    
+The mark I recieved is 93.4/100 for this project.  
