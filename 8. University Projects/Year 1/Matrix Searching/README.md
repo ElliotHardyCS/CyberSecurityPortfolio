@@ -1,6 +1,6 @@
 **-How the attack happened**  
 
 For this project I was tasked with answering these 3 questions and passing the specified tests:
-![Requirements](images/Requirements.png)
+![Requirements](Images/Requirements.png)
 
-![Solution](images/Solution_code.jpg)
+![Solution](Images/Solution_code.jpg)
