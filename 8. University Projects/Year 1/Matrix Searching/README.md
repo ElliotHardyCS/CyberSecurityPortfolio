@@ -6,6 +6,7 @@ which can be found here:
 [WriteUp](./WriteUp.pdf)  
   
 In this writeup we were not required to discuss how we came up with our algorithms so I will discuss this further down this README file:
+  
 ![Requirements](Images/Requirements.jpg)
 The test cases for each function are as follows:
 
