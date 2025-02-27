@@ -1,6 +1,8 @@
 **-Finding The Maximum Value in a Matrix**  
 
-For this project I was tasked with answering these 3 questions and passing the specified tests:
+For this project I was tasked with answering these 3 questions and passing the specified tests,  
+I was also tasked with working out the time complexity of each function and writing this up as a pdf file. which can be found here:
+[WriteUp](./Writeup)
 ![Requirements](Images/Requirements.jpg)
 The test cases for each function are as follows:
 
