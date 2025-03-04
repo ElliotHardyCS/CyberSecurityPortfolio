@@ -3,7 +3,7 @@
 
 For this project I was tasked with answering these 3 questions and passing the specified tests,  
 I was also tasked with working out the time complexity of each function and writing this up as a pdf file.   
-which can be found here:
+which can be found here:  
 [WriteUp](./AssignmentWriteUp.pdf)  
   
 In this writeup we were not required to discuss how we came up with our algorithms so I will discuss this further down this README file:
