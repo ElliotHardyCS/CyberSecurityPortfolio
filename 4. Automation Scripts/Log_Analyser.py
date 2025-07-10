@@ -5,7 +5,7 @@ def extract_ip(line):
   if "from" in parts:
     index = parts.index("from")
     return parts[index + 1]
-return None
+  return None
 
 ipAdresses = []
 fileName = input ("Enter the name of the file to analyse: ")
@@ -19,6 +19,6 @@ ip_counter = Counter(ipAdresses)
 
 for ip, count in ipAdresses.items():
   if count >= 3:
-    print ("Suspicious activity from {ip} - {count} failed access attempts")
+    print ("Suspicious activity from ",ip," - ",count," failed access attempts")
 
 logs.close()
