@@ -1,6 +1,6 @@
 **Text Based Game Explained, V1 and V2**
 ---  
-**Version 1** //
+**Version 1** 
 ---  
 -In version one I was asked to create a basic text-based game in the style of Zork.  
 
@@ -66,7 +66,7 @@ The mark I recieved is 93.4/100 for this project.
 
 - [View all code here...](./Version%201/)
 
-**Submitted Video and github link**  //
+**Submitted Video and github link**  
 ---  
 
 Text here
@@ -75,7 +75,7 @@ Text here
 [Version 1 Video](https://youtu.be/IiBGIig8pdA?si=kOlHR6YKxWycIPDh)
 
 ---  
-**Version 2**//
+**Version 2**
 ---  
 
 -In version two I was asked to update my Zork style text based game from version 1. To be able to complete version 2 I was required to start from scratch due to the redesign of the game structure, I was allowed to resue my story line but I chose not to and created a new game story with new rooms, items, and features.
