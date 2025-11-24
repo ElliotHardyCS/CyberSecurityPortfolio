@@ -24,7 +24,7 @@ This project demonstrates an understanding of **industry-standard best practices
 
 ## 🧱 Blueprint
 
-A custom blueprint was created showing:
+I created a custom blueprint which shows:
 
 - CCTV camera coverage  
 - Biometric fingerprint scanners  
@@ -39,7 +39,7 @@ The blueprint serves as the foundation for the physical security section of the 
 
 ## 📄 LaTeX Report
 
-The `report.tex` file (or equivalent) contains the full write-up of the project including:
+The `report.tex` file contains the full write-up of the project including:
 
 - Introduction and scope  
 - Physical controls  
