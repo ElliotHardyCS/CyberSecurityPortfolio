@@ -6,55 +6,22 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 
 ---
 
-## How to Use This Portfolio:
-- **Explore My Projects**  
-  Each folder represents a project or skillset and contains:
-    - README.md files that explain the purpose, tools, and outcomes of the project.  
-    - Supporting files such as scripts, reports, or screenshots.  
-
-
----
-
 ## Contents:
-1. **[Threat Reports](./1.%20Threat%20Reports/):**
-    - Comprehensive and professional analyses of cybersecurity threats, including malware behavior, threat actor profiling, and attack techniques.  
-    - Example reports leverage frameworks like MITRE ATT&CK, Cyber Kill Chain, and the Diamond Model of Intrusion Analysis to model and describe attack patterns effectively.  
-    - These reports showcase my ability to synthesize complex information into actionable intelligence, a key skill in threat intelligence roles.  
-
-2. **[Malware Analysis](./2.%20Malware%20Analysis/):**
-    - Detailed reverse engineering of malware using tools like Ghidra, IDA Pro, and Cuckoo Sandbox.  
-    - Projects include static and dynamic analysis of malware to uncover behavior, identify Indicators of Compromise (IoCs), and recommend mitigation strategies.  
-    - Emphasizes my hands-on expertise in understanding and combating malicious code.  
-
-3. **[OSINT Investigations](./3.%20OSINT%20Investigations/):**
-    - Real-world scenarios showcasing ethical Open Source Intelligence (OSINT) investigations using tools like Maltego, Shodan, and Recon-ng.  
-    - Projects simulate tracking threat actors, analyzing publicly available data, and identifying security vulnerabilities.  
-    - Demonstrates proficiency in gathering and analyzing intelligence while adhering to ethical guidelines.  
-
-4. **[Automation Scripts](./4.%20Automation%20Scripts/):**
+**[Automation Scripts](./Automation%20Scripts/):**
     - Python and Java scripts automating cybersecurity tasks, including:  
         - Log parsing and threat detection.  
         - Threat feed integration and alert correlation.  
         - Phishing email detection and analysis.  
     - These projects highlight my ability to streamline and enhance cybersecurity operations with programming.  
-
-5. **[Capture The Flag (CTS) Solutions](./5.%20Capture%20The%20Flag%20(CTS)%20Solutions/):**
-    - Solutions to CTF challenges from platforms like Hack The Box.  
-    - Covers challenges in cryptography, reverse engineering, forensics, and network analysis.  
-    - Demonstrates problem-solving skills, creativity, and technical proficiency.  
-
-6. **[Blog Posts](./6.%20Blog%20Posts/):**
-    - Blog posts regarding past, present, or future topics in the Cyber Security world.
-
-8. **[Immersive Labs](./7.%20Immersive%20Labs/):**
+    
+**[Security Architecture and Business Continuity designs](./Secur%20Projects/):**
+    - Projects that I have completed as coursework during my time at the University of Birmingham.
+    
+**[Immersive Labs](./Immersive%20Labs/):**
     - Skills and certifications gained using the Immersive Labs Cyber Security Training platform.
 
-8. **[University Projects](./8.%20University%20Projects/):**
+**[University Projects](./University%20Projects/):**
     - Projects that I have completed as coursework during my time at the University of Birmingham.
-
-10. **[Frameworks and Tools](./9.%20Frameworks%20and%20Tools/):**
-     - Demonstrations of my profficiency of using many crucuial and important Cyber Security tools and frameworks.
-
 
 ---
 
