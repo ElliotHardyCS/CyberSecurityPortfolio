@@ -9,7 +9,7 @@ This opportunity has broadened my cyber security horizons and taught me invaluab
 
 **- Badge**
 
-![Certified in Cybersecurity](CC.jpg)  
+![Certified in Cybersecurity](cc.png)  
 
 
 **- Link**  
