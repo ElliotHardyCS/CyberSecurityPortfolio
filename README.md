@@ -52,14 +52,7 @@ Before A-levels, I earned 9 GCSEs from The Latimer Arts College in 2022.
 
 Currently, I work as a Server at Miller and Carter, where I’ve developed skills in teamwork, communication, and customer service. Previously, I was employed as a Theatre Technician, responsible for the lighting production of various shows, which honed my ability to perform under pressure.
 
-In addition to my studies, I Volunteered as a Student Teacher at a local dance school, where I ensured the safety and performance of younger dancers. I am also pursuing my RAD Grade 7, and have recently completed my RAD Repetoire qualification in ballet.
-
-
----
-
-## Acknowledgements:
-I would like to thank the University of Birmingham for providing a strong foundation in computer science and cybersecurity. Additionally, platforms like Hack The Box and ImmersiveLabs have been instrumental in gaining hands-on experience and honing my technical skills.
-
+In addition to my studies I am pursuing my RAD Grade 7 ballet qualifcation and my RAD Repetoire level 3 qualification, and have recently completed my RAD Repetoire level 2 qualification and RAD Grade 6 qualification in ballet.
 
 ---
 
