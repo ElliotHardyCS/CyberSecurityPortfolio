@@ -3,7 +3,6 @@
 This repository highlights my skills, projects, and accomplishments in the field of cybersecurity with a specialization in threat intelligence, cybersecurity analysis, and programming.  
 This portfolio demonstrates my ability to analyze complex threats, utilize cutting-edge tools, and solve real-world cybersecurity challenges. From threat reports and OSINT investigations to malware analysis and automation scripts, my work showcases both technical expertise and critical thinking.
 
-
 ---
 
 ## Contents:
@@ -23,23 +22,6 @@ This portfolio demonstrates my ability to analyze complex threats, utilize cutti
 
 **[University Projects](./University%20Projects/):**
     - Projects that I have completed as coursework during my time at the University of Birmingham.
-
----
-
-## Skills and Tools:
-
-### Core Technical Skills:
-- **Threat Intelligence Analysis**: Creating actionable threat intelligence using frameworks like MITRE ATT&CK.  
-- **Programming**: Python (automation, data analysis), Java (secure development), Bash (Linux scripting), Haskell, MySQL, and SQL.  
-- **Malware Analysis**: Reverse engineering and IoC identification.  
-- **OSINT**: Ethical data collection and intelligence mapping.  
-
-### Tools Proficiency:
-- **[Splunk](./9.%20Frameworks%20and%20Tools/splunk/)**: SIEM setup and log analysis.  
-- **[Wireshark](./9.%20Frameworks%20and%20Tools/wireshark/)**: Packet capture and network analysis.  
-- **[Nmap](./9.%20Frameworks%20and%20Tools/nmap/)**: Network scanning and vulnerability detection.  
-
-
 
 ---
 
