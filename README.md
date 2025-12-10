@@ -1,7 +1,6 @@
 # Welcome to my Cybersecurity Portfolio!
 
-This repository highlights my skills, projects, and accomplishments in the field of cybersecurity with a specialization in threat intelligence, cybersecurity analysis, and programming.  
-This portfolio demonstrates my ability to analyze complex threats, utilize cutting-edge tools, and solve real-world cybersecurity challenges. From threat reports and OSINT investigations to malware analysis and automation scripts, my work showcases both technical expertise and critical thinking.
+This repository highlights my skills, projects, and accomplishments in the field of cybersecurity with a specialization in threat intelligence, cybersecurity analysis, and programming.
 
 ---
 
