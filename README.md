@@ -1,6 +1,6 @@
 # Welcome to my Cybersecurity Portfolio!
 
-This repository highlights my skills, projects, and accomplishments in the field of cybersecurity with a specialization in threat intelligence, cybersecurity analysis, and programming.
+This repository highlights my skills, projects, and accomplishments in Computer Science, with a cybersecurity focus.
 
 ---
 
