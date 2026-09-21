@@ -9,7 +9,7 @@ This repository highlights my skills, projects, and accomplishments in the field
     - Projects that I have completed as coursework during my time at the University of Birmingham.
 
 **[Software Development and Website Design, Construction, and Management](./University%20Projects/):**
-    - Projects that I have completed as coursework during my time at the University of Birmingham.
+    - Software I have developed, and websites I have built and/or worked on.
     
 **[Immersive Labs](./Immersive%20Labs/):**
     - Skills and certifications gained using the Immersive Labs Cyber Security Training platform.
