@@ -35,7 +35,7 @@ In addition to my studies, I am pursuing my RAD Grade 7 ballet qualification, an
 ---
 
 ## My CV:
-- [View my CV]((https://drive.google.com/file/d/1sYLwnY31Tydf4QTOsVvLcicaeytZs6Ez/view?usp=drive_link)
+- [View my CV](https://drive.google.com/file/d/1sYLwnY31Tydf4QTOsVvLcicaeytZs6Ez/view?usp=drive_link)
 
 ---
 
