@@ -5,22 +5,19 @@ This repository highlights my skills, projects, and accomplishments in the field
 ---
 
 ## Contents:
-**[Automation Scripts](./Automation%20Scripts/):**
-    - Python and Java scripts automating cybersecurity tasks, including:  
-        - Log parsing and threat detection.
-        - Phishing email detection and analysis.  
-    - These projects highlight my ability to streamline and enhance cybersecurity operations with programming.  
-    
-**[Security Architecture and Business Continuity designs](./Security%20Architecture%20and%20Business%20Continuity%20designs/):**
-    - Security Architecture designs including:  
-        - A fictional data center.
-    - These projects highlight my ability to design physical, administrative, and technical security policies.  
+**[University Projects](./University%20Projects/):**
+    - Projects that I have completed as coursework during my time at the University of Birmingham.
+
+**[Software Development and Website Design, Construction, and Management](./University%20Projects/):**
+    - Projects that I have completed as coursework during my time at the University of Birmingham.
     
 **[Immersive Labs](./Immersive%20Labs/):**
     - Skills and certifications gained using the Immersive Labs Cyber Security Training platform.
 
-**[University Projects](./University%20Projects/):**
-    - Projects that I have completed as coursework during my time at the University of Birmingham.
+**[Security Architecture and Business Continuity designs](./Security%20Architecture%20and%20Business%20Continuity%20designs/):**
+    - Security Architecture designs including:  
+        - A fictional data center.
+    - These projects highlight my ability to design physical, administrative, and technical security policies.  
 
 ---
 
