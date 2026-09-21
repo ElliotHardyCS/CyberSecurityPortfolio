@@ -34,6 +34,21 @@ In addition to my studies, I am pursuing my RAD Grade 7 ballet qualification, an
 
 ---
 
+**Certified in Cybersecurity**
+--- 
+
+I Also officially recieved my Certified in Cybersecurity (CC) certification from ISC2 in 2025.
+
+This course allowed me to develop and hone my skills in a range of domains including; Access Controls Concepts, Business Continuity (BC) Concepts, Disaster Recovery (DR) Concepts, Incident Response Concepts, Network Security, Security Operations, and Security Principles.
+
+**- Badge**
+![Certified in Cybersecurity](./Images/cc.png)  
+
+**- Link**  
+[CC Qualification](https://www.credly.com/badges/f49da895-e238-46b1-a276-380c8f0feedd/linked_in?t=t43ewi)
+
+---
+
 ## Contact Me:
 - **Email**: [Email me](mailto:elliothardywork@gmail.com?subject=CyberSecurityPortfolio)  
 - **LinkedIn**: [Find me on LinkedIn](https://www.linkedin.com/in/elliot-anthony-hardy/)  
